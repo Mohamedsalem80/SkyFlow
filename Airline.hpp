@@ -12,6 +12,7 @@ class Airline
         Airline();
         void addFlight();
         void removeFlight();
+        void changeflight();
         void searchFlights();
         void bookFlight();
 };
